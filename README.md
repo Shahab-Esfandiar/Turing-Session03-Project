@@ -1,5 +1,4 @@
 # 🛒 Commerce Sentiment Engine (Digikala Analyzer)
-**Full-Stack Data Engineering & LLM-Powered Analytics Dashboard**
 
 <img width="1881" height="871" alt="image" src="https://github.com/user-attachments/assets/bb728802-1883-4e5c-9e44-94454e096c4f" />
 
