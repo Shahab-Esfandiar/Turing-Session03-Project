@@ -32,7 +32,7 @@ Built with modern software engineering principles, the architecture focuses on m
 
 ## 💎 Execution & Data Features
 
-### 🖥️ Professional Interactive UI
+### 🖥️ Interactive UI
 * **Streamlit Dashboard:** Features a beautifully crafted, two-column interactive web interface with modern typography (Inter font), custom CSS, and direct chart download capabilities.
 * **Live Terminal:** Includes a custom-styled, auto-scrolling execution log built into the UI that provides real-time transparency into the crawler's fetching and the LLM's processing loops.
 
