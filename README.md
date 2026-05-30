@@ -7,7 +7,7 @@ This repo is an educational and data engineering tool designed to demonstrate th
 ---
 
 ## 🏗️ System Architecture & Enhancements
-Built with modern software engineering principles, the architecture focuses on modularity, data persistence, and interactive data visualization.
+The architecture focuses on modularity, data persistence, and interactive data visualization.
 
 ### 1. Core Foundations
 * **Modular Component Design:** Decouples the system into independent operational modules (`crawler`, `analyzer`, `db_manager`, `analytics`) to ensure clean code and scalability.
