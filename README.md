@@ -1,6 +1,6 @@
 # 🛒 Commerce Sentiment Engine (Digikala Analyzer)
 
-This repo is an educational and  data engineering tool designed to demonstrate the seamless integration of web APIs, Large Language Models (LLMs), and data science metrics. It acts as an automated pipeline that crawls e-commerce product reviews, analyzes customer sentiment to extract structured JSON metadata, and dynamically generates statistical reports including the Net Promoter Score (NPS) via an interactive web dashboard.
+This repo is an educational and data engineering tool designed to demonstrate the seamless integration of web APIs, Large Language Models (LLMs), and data science metrics. It acts as an automated pipeline that crawls e-commerce product reviews, analyzes customer sentiment to extract structured JSON metadata, and dynamically generates statistical reports including the Net Promoter Score (NPS) via an interactive web dashboard.
 
 <img width="1881" height="871" alt="image" src="https://github.com/user-attachments/assets/bb728802-1883-4e5c-9e44-94454e096c4f" />
 
